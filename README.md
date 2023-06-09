@@ -1,5 +1,8 @@
 # Node.js-REST-API
-Node.js REST API inculdes end2end encryption, tokens authentication and refreshing, requests looger, mongoDb replica set and cahing database with Redis replica set.
+Node.js REST API inculdes end2end encryption, tokens authentication and refreshing, requests looger, mongoDb replica set and cahing database with Redis replica set, and Nginx for load balacer.
+![download](https://github.com/Erangr90/Node.js-REST-API/assets/62970558/af56ac69-31d1-497c-bba6-8152acdc74b6)
+
+
 
 ### Env Variables
 
