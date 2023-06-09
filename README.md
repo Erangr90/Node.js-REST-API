@@ -23,7 +23,7 @@ LOG_FILE_ROTATION= "30d"
 LOG_FILE_SIZE= "50M"
 ```
 
-if you crete a user to mongodb replica, you need to chnges this in the init.file too.
+if you crete a user to mongodb replica, you need to chnges this in the init.js file too.
 
 
 ### Run
