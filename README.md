@@ -5,7 +5,7 @@
 ![Nginx_logo](https://github.com/Erangr90/Node.js-REST-API/assets/62970558/bd6365e1-9194-40bc-a294-0440bb482b99)
 
 # Node.js-REST-API
-Node.js REST API inculdes end2end encryption, tokens authentication and refreshing, requests looger, mongoDb replica set with cahing database using Redis replica set, and Nginx for load balacer.
+Node.js REST API inculdes tokens authentication and refreshing, requests looger for analysic, mongoDb replica set with cahing database using Redis replica set, and Nginx for load balacer.
 
 
 
