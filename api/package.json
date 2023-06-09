@@ -1,0 +1,41 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Node.js Express RESTful API",
+  "main": "server.js",
+  "scripts": {
+    "start": "npm start",
+    "test": "jest --detectOpenHandles",
+    "dev": "nodemon server",
+    "data:import": "node seeder",
+    "data:destroy": "node seeder -d"
+  },
+  "author": "Eran Grady",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "*",
+    "colors": "*",
+    "cookie-parser": "*",
+    "express": "*",
+    "jsonwebtoken": "*",
+    "mongoose": "*",
+    "multer": "*",
+    "fs": "*",
+    "ioredis": "*",
+    "morgan":"*",
+    "rotating-file-stream":"*"
+    
+  },
+  "devDependencies": {
+    "nodemon": "*",
+    "jest":"*",
+    "ts-jest":"*",
+    "@babel/core":"*",
+    "@babel/preset-env":"*",
+    "@babel/cli":"*",
+    "@babel/register":"*",
+    "supertest":"*",
+    "@jest-mock/express":"*"
+  }
+}
